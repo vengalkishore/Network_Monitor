@@ -1,0 +1,3 @@
+Python 3.8 or higher
+PyQt5
+Scapy
