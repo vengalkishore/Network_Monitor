@@ -22,8 +22,6 @@ This application is compatible with:
 - Install pip, the Python package manager, if not already installed.
 
 ### **2. How to Download and Use**
-
-
 ```bash
 # Clone the repository
 git clone https://github.com/vengalkishore/Network_Monitor.git
